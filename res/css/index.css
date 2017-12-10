@@ -25,7 +25,7 @@ html {
 /* HEADER */
 
 header .container {
-    border: 1px solid green;
+    /* border: 1px solid green; */
     background-color: white;
     display: flex;
     justify-content: space-between;
